@@ -17,7 +17,6 @@
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "js-pytorch": "^0.7.2",
     "express-openid-connect": "^2.17.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.4",
